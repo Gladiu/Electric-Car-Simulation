@@ -1,6 +1,6 @@
 import imageio
 import numpy as np
 
-im = imageio.imread('test.png')
+im = imageio.imread('image/50opacity.png')
 im = np.array(im)
-print(im[1])
+print(im)
