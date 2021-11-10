@@ -2,4 +2,5 @@ import imageio
 import numpy as np
 
 im = imageio.imread('test.png')
-print(im)
+im = np.array(im)
+print(im[1])
