@@ -7,3 +7,4 @@ __**TODO:**__
 	-Calculate speeds at which entire track can be passed
 ```
 
+In branch bezier try to read from .png file a curve and approximate it with bezier equations
